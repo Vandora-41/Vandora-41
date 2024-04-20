@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with UI design<br>🌱
+🤝 I’m looking for help with UI design<br>
 
 
 ## 🌐 Socials:
