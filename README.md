@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing my own multiplayer horror game<br>🤝 I’m looking for help with UI design<br>🌱 I’m currently learning procedural generation<br>
+🤝 I’m looking for help with UI design<br>🌱
 
 
 ## 🌐 Socials:
